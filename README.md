@@ -1,2 +1,2 @@
 # JaleelChestnut.github.io
-Computers in the Modern World
+Jaleel Chestnut's CSCE 190 Site
