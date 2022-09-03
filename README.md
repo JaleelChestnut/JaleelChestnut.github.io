@@ -5,3 +5,5 @@
 #### Problem Statement: Parking
 
 Students around campus are having trouble finding an open parking lot to park their car while at school. It is either the parking lot is too full, or the parking lot is too far away from their dorm/class.
+
+[Problem Statement.pdf](https://docs.google.com/document/d/11lxBOXCwiTdJzSVR91Yywv79fXej3AnGgOSvuut1o50/edit)
