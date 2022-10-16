@@ -1,9 +1,9 @@
 body{
-background: blue; 
+background: rgb(221, 221, 238); 
 font-family:Times New Roman;
 }
 
-hi{
+h1{
     color white;
     text-align: center;
 }
