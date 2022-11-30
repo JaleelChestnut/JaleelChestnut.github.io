@@ -5,7 +5,7 @@ font-family:Times New Roman;
 
 .assignments {
     display:flex; 
-    flex-wrap: wrap;
+    flex-wrap:wrap;
 }
 
 .assignment {
@@ -40,7 +40,7 @@ h2{ text-align: center;
 }
 a {
     text-decoration: none;
-    color: azure;
+    color: rgb(10, 10, 10);
 
 }
 
