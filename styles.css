@@ -3,6 +3,26 @@ background: rgb(221, 221, 238);
 font-family:Times New Roman;
 }
 
+.assignments {
+    display:flex; 
+}
+
+.assignment {
+    padding:10px;
+    margin: 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+.assignment img {
+    width: 200px;
+    margin: 10px;
+    border:4px saddlebrown;
+}
+
+.assignment img:hover{
+    border:4px darkslategray;
+}
 h1{
     color:black;
     text-align: center;
